@@ -5,7 +5,7 @@ Dot menu for the site, in native JavaScript<hr>
 
 Css connection
 ```html
-<link rel = "stylesheet" href = " dots.css">
+<link rel = "stylesheet" href = "dots.css">
 ```
 
 Connection js should be made after your file, for example ...
