@@ -13,26 +13,6 @@ body {
   text-align: center;
 }
 
-.box-1 {
-  background-color: #C0C0C0;
-}
-
-.box-2 {
-  background-color: rgb(35, 139, 209);
-}
-
-.box-3 {
-  background-color: rgb(35, 209, 157);
-}
-
-.box-4 {
-  background-color: rgb(128, 90, 199);
-}
-
-.box-5 {
-  background-color: rgb(32, 32, 32);
-}
-
 .dot__text {
   font-size: 40px;
   color: #fff;
