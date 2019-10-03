@@ -1,5 +1,5 @@
-# dots-menu
-Dot menu for the site, in native JavaScript
+# dot-navigation
+Dot navigation on the site, in native JavaScript
 
 The script is intended for implementation on the site, with further use.
 It is written in native JavaScript and does not require connecting libraries.
