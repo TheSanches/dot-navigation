@@ -9,7 +9,7 @@ The script has settings that allow you to make a visual component for every tast
 
 <hr>
 
-<h2>Connect to the site</h2>
+## Connect to the site
 
 Css connection
 ```html
@@ -34,7 +34,7 @@ function dotsSettings() {
 ```
 <hr>
 
-<h2>Settings</h2>
+## Settings
 
 >dots to the left
 >
@@ -82,7 +82,7 @@ function dotsSettings() {
 
 <hr>
 
-<h2>Usage example</h2>
+## Usage example
 
 ```html
 function dotsSettings() {
