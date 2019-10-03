@@ -3,7 +3,11 @@ Dot menu for the site, in native JavaScript
 
 The script is intended for implementation on the site, with further use.
 It is written in native JavaScript and does not require connecting libraries.
-The script has settings that allow you to make a visual component for every taste, you can also easily edit css styles to achieve an even more individual design.<hr>
+The script has settings that allow you to make a visual component for every taste, you can also easily edit css styles to achieve an even more individual design.
+
+### [Example](http://dots-menu.surge.sh/)
+
+<hr>
 
 <h2>Connect to the site</h2>
 
