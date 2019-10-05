@@ -94,7 +94,7 @@ function createDots(quantity, boxText) { //create dots
   set.dotsSquare ? dots.classList.add('dots_square') : dots.classList.remove('dots_square');
 
   // dots size
-  if (set.dotsSize != false) {
+  if (set.dotsSize) {
     for (let dotsSetSize = 0; dotsSetSize < dotsLink.length; dotsSetSize++) {
       dotsLink[dotsSetSize].style.width = set.dotsSize[0]+'px';
       dotsLink[dotsSetSize].style.height = set.dotsSize[1]+'px';
