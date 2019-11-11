@@ -37,7 +37,7 @@ function dotsWrite() {
 
 dotsWrite();
 
-function createDots(quantity, boxText) { //create dots
+function createDots(quantity, boxText) { //create dots for navigation
   let fragment = new DocumentFragment(); 
 
   for (let k = 1; k <= quantity.length; k++) { //calculate count sections
