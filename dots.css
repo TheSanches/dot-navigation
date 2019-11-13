@@ -55,7 +55,8 @@ html {
 }
 
 .dots__link:hover>.dots__text {
-  -webkit-transform: translateX(0) translateY(-50%) scale(1);-ms-transform: translateX(0) translateY(-50%) scale(1);
+  -webkit-transform: translateX(0) translateY(-50%) scale(1);
+  -ms-transform: translateX(0) translateY(-50%) scale(1);
   transform: translateX(0) translateY(-50%) scale(1);
   opacity: 1;
 }
